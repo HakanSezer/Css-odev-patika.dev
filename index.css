@@ -1,0 +1,28 @@
+/* Renkler */
+.color {
+    color: yellowgreen;
+}
+/* Hem renkler Hem center */
+.h-Red{
+    color:red;
+    text-align: center;
+}
+.h-Yellow{
+    color: yellowgreen;
+    text-align: center;
+}
+.h-Purple{
+    color: blueviolet;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid red;
+  }
+
+.centerS {
+    text-align: center;
+}
+
+
